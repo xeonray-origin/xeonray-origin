@@ -17,8 +17,5 @@ Hi, I am a Fullstack developer and a cyber security enthusiast. Mostly working w
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=xeonray-origin&icon=0&color=6)](https://visitcount.itsvg.in)
