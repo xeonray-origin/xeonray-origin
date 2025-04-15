@@ -1,5 +1,5 @@
 <h2 align="leftr">Hi 👋, I'm Amritendu Bhattacharjee</h1>
-<h4 align="leftr">Hi, I am a passionate MERN Stack Developer with over 5+ years of experience developing cross-platform applications and software solutions. Adept at utilizing the latest technologies to deliver efficient, scalable, and user-friendly distributed systems. My usual day at work involves translating business ideas into fully functional features, code-reviewing and mentoring juniors. I love reading about various system designs and developing personal projects when I am not at work.</h4>
+<h4 align="leftr">Hi, I am a passionate MERN Stack Developer with over 6+ years of experience developing cross-platform applications and software solutions. Adept at utilizing the latest technologies to deliver efficient, scalable, and user-friendly distributed systems. My usual day at work involves translating business ideas into fully functional features, code-reviewing and mentoring juniors. I love reading about various system designs and developing personal projects when I am not at work.</h4>
 
 <h5 align="left">Connect with me:</h3>
 <p align="left">
