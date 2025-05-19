@@ -7,4 +7,4 @@
 <a href="https://www.amritendu.com/" target="blank"><img align="center" src="https://www.amritendu.com/logo_light.svg" alt="xeonray" height="50" width="50" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeonray-origin&layout=pie" alt="xeonray-origin" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeonray-origin&layout=pie&count_private=true&show=languages" alt="xeonray-origin" /></p>
