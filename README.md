@@ -7,6 +7,17 @@
 <a href="https://www.amritendu.com/" target="blank"><img align="center" src="https://www.amritendu.com/logo_light.svg" alt="xeonray" height="50" width="50" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeonray-origin&layout=pie&count_private=true&show=languages" alt="xeonray-origin" /></p>
+<h2 id="📈-stats">📈 Stats</h2>
+<div align=left>
+  
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=jackgraymer&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)-->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=xeonray-origin&theme=dark&card_width=494)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=xeonray-origin&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+
+<br>
+ 
+<br>
+
+<img height="250" width="auto" src="https://github-readme-stats-jackgraymer.vercel.app/api/top-langs/?username=xeonray-origin&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=false&theme=dark&hide=">
+
+</div>
