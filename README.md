@@ -8,3 +8,5 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeonray-origin&layout=pie&count_private=true&show=languages" alt="xeonray-origin" /></p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=xeonray-origin&theme=dark&card_width=494)](https://git.io/streak-stats)
