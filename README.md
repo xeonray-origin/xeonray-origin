@@ -1,5 +1,5 @@
 <h2 align="leftr">Hi 👋, I'm Amritendu Bhattacharjee</h1>
-<h4 align="leftr">A Senior Software Engineer in Bengaluru who
+<p align="leftr">A Senior Software Engineer in Bengaluru who
 builds secure, scalable web platforms. On a typical day, I turn business requirements into live features, join
 architecture discussions, review code, and run sessions for junior engineers and
 interns. I care about software that holds up in the real world, so I try to get
@@ -8,7 +8,7 @@ the security and failure modes right before the code ships.
 I'm originally from Kolkata. Away from work, you'll usually find me with my dog,
 building personal projects, or reading anything from human evolution to science
 fiction. I think art matters as much as any other field: commerce and science
-build the mind, but art helps build the soul.</h4>
+build the mind, but art helps build the soul.</p>
 
 <h5 align="left">Connect with me:</h3>
 <p align="left">
